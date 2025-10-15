@@ -2,7 +2,7 @@
 
 An immersive, visually stunning website featuring advanced 3D animations and smooth scroll-triggered interactions. Built with pure web technologies to demonstrate modern front-end development capabilities.
 
-![Project Screenshot]([./Megma.png](Megma.png)) <!-- Add a screenshot later -->
+![Project Screenshot]([./Megma.png]) <!-- Add a screenshot later -->
 
 ## 🚀 Live Demo
 
